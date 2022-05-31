@@ -8,3 +8,5 @@ Swing
 AWT
 Maven
 UML
+
+![alt text]([http://url/to/img.png](https://ivanlemovou.cm/wp-content/uploads/2020/01/boulderdash.png))
